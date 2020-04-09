@@ -1,2 +1,2 @@
 # weatherforecastonline
-chack weather of any place of any country
+check weather of any place of any country
